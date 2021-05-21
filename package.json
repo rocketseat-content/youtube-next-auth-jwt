@@ -10,13 +10,19 @@
   "dependencies": {
     "@headlessui/react": "^1.2.0",
     "@heroicons/react": "^1.0.1",
+    "axios": "^0.21.1",
     "next": "10.2.2",
+    "nookies": "^2.5.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-hook-form": "^7.6.4",
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
+    "@types/cookie": "^0.4.0",
     "@types/node": "^15.6.0",
     "@types/react": "^17.0.6",
+    "@types/uuid": "^8.3.0",
     "autoprefixer": "^10.2.5",
     "postcss": "^8.3.0",
     "tailwindcss": "^2.1.2",
